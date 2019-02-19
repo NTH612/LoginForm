@@ -1,0 +1,10 @@
+D:\Documents\Hoc Tap\LoginForm\LoginForm\bin\Debug\LoginForm.exe.config
+D:\Documents\Hoc Tap\LoginForm\LoginForm\bin\Debug\LoginForm.exe
+D:\Documents\Hoc Tap\LoginForm\LoginForm\bin\Debug\LoginForm.pdb
+D:\Documents\Hoc Tap\LoginForm\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+D:\Documents\Hoc Tap\LoginForm\LoginForm\obj\Debug\LoginForm.Form1.resources
+D:\Documents\Hoc Tap\LoginForm\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+D:\Documents\Hoc Tap\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+D:\Documents\Hoc Tap\LoginForm\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+D:\Documents\Hoc Tap\LoginForm\LoginForm\obj\Debug\LoginForm.exe
+D:\Documents\Hoc Tap\LoginForm\LoginForm\obj\Debug\LoginForm.pdb
